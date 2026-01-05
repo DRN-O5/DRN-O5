@@ -1,16 +1,21 @@
-## Hi there 👋
+## Heyo 👋
 
-<!--
-**DRN-O5/DRN-O5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in building real-world web applications and learning modern technologies through hands-on projects.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I’ve worked with through projects and continue to learn and improve:
+
+- TypeScript, JavaScript  
+- Next.js, React  
+- Node.js, Express  
+- PostgreSQL, MongoDB  
+- Prisma, Tailwind CSS 
+
+### Featured Projects
+- **Dentwise** – AI voice assistant & appointment booking platform  
+- **Streamify** – Real-time video calling application  
+- **Real-Time Chat App** – WebSocket-based messaging system  
+- **WillowWealth** – Finance tracking & visualization app  
+
+📫 Connect with me on LinkedIn: www.linkedin.com/in/dibyaranjan-prusty-94a96a29b
